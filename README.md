@@ -9,7 +9,7 @@
 <p>Meu nome é Bernardo Garcia Barbosa, tenho 20 anos e atualmente faço faculdade na PUC-Campinas cursando Engenharia de Software, sou apaixonado pela internet, passo praticamente o meu dia inteiro online, ou em jogos, estudando ou vendo filmes, descobri que amo programar e sempre que posso tento entender e estudar programação, nesse git vou colocar toda minha evolução.</p>
 #
 
-<img align="right" alt="" height="190px" src="[./src/edgerunners.gif](https://github.com/user-attachments/assets/49f581e9-123b-4113-a62c-69cea0aea71e)">
+<img align="right" alt="" height="190px" src=".github/workflows/Smoke Smoking GIF by Cyberpunk Edgerunners.gif">
 
 <h3 align="left">Connect with me!</h3>
 
