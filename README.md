@@ -45,6 +45,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=YYenoo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=YYenoo1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YYenoo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YYenoo1/YYenoo1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YYenoo1/YYenoo1/output/github-contribution-grid-snake-dark.svg">
